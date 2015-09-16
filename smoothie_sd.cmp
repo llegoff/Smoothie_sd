@@ -1,0 +1,17 @@
+Cmp-Mod V01 Created by Cvpcb (after 2015-mar-04 BZR unknown)-product   date = 14/09/2015 22:56:17
+
+BeginCmp
+TimeStamp = /55631F0A;
+Reference = ??1;
+ValeurCmp = SD_CARD;
+IdModule  = _LaurentPerso:SD_FCI;
+EndCmp
+
+BeginCmp
+TimeStamp = /55F1D33D;
+Reference = P1;
+ValeurCmp = CONN_02X04;
+IdModule  = Pin_Headers:Pin_Header_Straight_2x04;
+EndCmp
+
+EndListe
