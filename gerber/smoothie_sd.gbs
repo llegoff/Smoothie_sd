@@ -1,14 +1,11 @@
-%TF.GenerationSoftware,KiCad,Pcbnew,(after 2015-mar-04 BZR unknown)-product*%
-%TF.CreationDate,2015-09-16T22:55:14+02:00*%
-%TF.JobID,smoothie_sd,736D6F6F746869655F73642E6B696361,rev?*%
-%TF.FileFunction,Soldermask,Bot*%
+G04 #@! TF.FileFunction,Soldermask,Bot*
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW (after 2015-mar-04 BZR unknown)-product) date 16/09/2015 22:55:14*
+G04 Created by KiCad (PCBNEW (after 2015-mar-04 BZR unknown)-product) date 18/09/2015 21:52:24*
 %MOMM*%
 G01*
 G04 APERTURE LIST*
-%ADD10C,0.100000*%
+%ADD10C,0.020000*%
 %ADD11C,2.000000*%
 %ADD12R,1.727200X1.727200*%
 %ADD13O,1.727200X1.727200*%
